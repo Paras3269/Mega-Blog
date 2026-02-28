@@ -21,7 +21,6 @@ import {Controller} from 'react-hook-form';
                     plugins:[
                         "image",
                         "advlist",
-                        "autolist",
                         "lists",
                         "link",
                         "image",
